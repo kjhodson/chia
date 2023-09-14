@@ -1,5 +1,10 @@
 #!/bin/bash
+# Script to move plots from nvme storage to spinning disk
+# Update this to reflect target directory
 DEST=/plots/plots24
+# Update this to reflect temporary directory used by bladebit as destination.
+TMP=/plots_tmp2
+
 MINFREE='100000000'
 DATE=$(date '+%y%m%d-%T')
 LOG=/home/chia/logs/move_${DATE}.log
