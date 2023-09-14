@@ -1,0 +1,4 @@
+slummy     80200    2502 99 05:07 pts/0    01:21:39 /home/slummy/chia-blockchain/venv/bin/python /home/slummy/chia-blockchain/venv/bin/chia plotters chiapos -n1 -d/plots2 -r2 -k32 -t/plots_tmp2 -2/plots_tmp2 -b6780 -u128 -a2713014511 -D
+slummy     80689    2502 69 06:01 pts/0    00:01:02 /home/slummy/chia-blockchain/venv/bin/python /home/slummy/chia-blockchain/venv/bin/chia plotters chiapos -n1 -d/plots -r2 -k32 -t/plots_tmp -2/plots_tmp -b6780 -u128 -a2713014511 -e -D
+slummy     80690    2502 70 06:01 pts/0    00:01:03 /home/slummy/chia-blockchain/venv/bin/python /home/slummy/chia-blockchain/venv/bin/chia plotters chiapos -n1 -d/plots -r2 -k32 -t/plots_tmp -2/plots_tmp -b6780 -u128 -a2713014511 -e -D
+slummy     80691    2502 66 06:01 pts/0    00:00:59 /home/slummy/chia-blockchain/venv/bin/python /home/slummy/chia-blockchain/venv/bin/chia plotters chiapos -n1 -d/plots -r2 -k32 -t/plots_tmp -2/plots_tmp -b6780 -u128 -a2713014511 -e -D
